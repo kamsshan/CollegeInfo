@@ -18,4 +18,11 @@ public void center() {
 	System.out.println("center is chennai");
 }
 
+private void collegeEmail() {
+	System.out.println("Email6376");
+	
+
+}
+
+
 }
