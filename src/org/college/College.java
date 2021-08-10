@@ -11,6 +11,12 @@ public void collegeCode() {
 public void collegRank() {
 	System.out.println("college rank is 2224");
 }
+public void id() {
+	System.out.println("id is 82373");
+}
+public void center() {
+	System.out.println("center is chennai");
+}
 
 private void collegeEmail() {
 	System.out.println("Email6376");
