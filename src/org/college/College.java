@@ -12,4 +12,11 @@ public void collegRank() {
 	System.out.println("college rank is 2224");
 }
 
+private void collegeEmail() {
+	System.out.println("Email6376");
+	
+
+}
+
+
 }
